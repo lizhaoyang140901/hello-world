@@ -1,0 +1,34 @@
+{
+  "ret": true,
+  "data": {
+    "progressInfoList": [{
+        "id": "001",
+        "personImg": "../../static/images/personImg.png",
+        "personName": "琴琴",
+        "theDay": "2020/4/7",
+        "content": "今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图"
+      }, {
+        "id": "002",
+        "personImg": "../../static/images/personImg.png",
+        "personName": "晶晶",
+        "theDay": "2020/4/7",
+        "content": "今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图"
+      }, {
+        "id": "003",
+        "personImg": "../../static/images/personImg.png",
+        "personName": "莹莹",
+        "theDay": "2020/4/7",
+        "content": "今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图"
+      }],
+      "proImgList": [{
+        "id": 1,
+        "imgUrl": "http://www.liti.cn/uploads/allimg/191206/4-191206135639.jpg"
+      }, {
+        "id": 2,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20200331/76acb1c56a02b9fc75762219c802ff33.jpg"
+      }, {
+        "id": 3,
+        "imgUrl": "http://www.liti.cn/uploads/allimg/191206/4-191206135639.jpg"
+      }]
+    }
+}

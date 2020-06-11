@@ -1,0 +1,67 @@
+{
+  "ret": true,
+  "data": {
+    "goingProList": [{
+        "id": 1,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20200326/cea28266065dbfdf66e5c1f82812ae6f.jpg",
+        "proStyle": "现代简约",
+        "proName": "中央学府室内设计"
+      },
+      {
+        "id": 2,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20191229/4aa99ddc249e177ee5c3518c0f7ad4ac.jpg",
+        "proStyle": "中式田园",
+        "proName": "仁恒滨河湾室内装修"
+      },
+      {
+        "id": 3,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20191228/eec09f6cb7b83cd25388ef954a480f42.jpg",
+        "proStyle": "欧式田园",
+        "proName": "博雅花园旧房改造"
+      },
+      {
+        "id": 4,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20191222/2947225cb03cb5dcd22f2652d31a013f.jpg",
+        "proStyle": "中欧混搭",
+        "proName": "博雅花园毛胚房装修"
+      },
+      {
+        "id": 5,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20191222/e2227190a192d7266eb5648dd10340bf.jpg",
+        "proStyle": "美式地中海",
+        "proName": "世界公馆局部改造"
+      }
+    ],
+    "completedProList": [{
+        "id": 1,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20191221/5a901907c6c63bce8432356364a39dad.jpg",
+        "proStyle": "现代简约",
+        "proName": "西山庭院工装装修"
+      },
+      {
+        "id": 2,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20200327/8b85461679739639274c781dcb360e5a.jpg",
+        "proStyle": "中式田园",
+        "proName": "上上城复式拆改"
+      },
+      {
+        "id": 3,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20191030/f740cc03dd9468396c317ad7d164b146.jpg",
+        "proStyle": "美式田园",
+        "proName": "鹏森杰作软装"
+      },
+      {
+        "id": 4,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20191017/17b5e96e6e1d8e4dc3594f458270aa7b.jpg",
+        "proStyle": "中欧混搭",
+        "proName": "上地嘉园水电改造"
+      },
+      {
+        "id": 5,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20190930/59a9cd76dfd4aefc30a5f5bc3c44329d.jpg",
+        "proStyle": "美式地中海",
+        "proName": "晋能杰座精装"
+      }
+    ]
+  }
+}

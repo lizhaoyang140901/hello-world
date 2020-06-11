@@ -1,0 +1,50 @@
+{
+  "ret": true,
+  "data": {
+    "proDesc": "就是在可以保证基础使用的前提下的一种粗装修方式。水电工程,包含所有水路电路气路的安装铺设。材料包含就是在可以保证基础使用的前提下的一种粗装修方式。水电工程,包含所有水路电路气路的安装铺设材料包含就是在可以保证基础使用的前提下的一种粗装修方式。水电工程,包含所有水路电路气路的安装铺设。材料包含",
+    "proImgList": [{
+        "id": 1,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20200326/cea28266065dbfdf66e5c1f82812ae6f.jpg"
+      },
+      {
+        "id": 2,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20200324/f9d15585deb6af321b59f9a72fb6be35.jpg"
+      },
+      {
+        "id": 3,
+        "imgUrl": "http://image.shj.cn:8888/uploads/case/20200220/875cf8fefcaa9363769babde6ee6d92b.jpg"
+      }
+    ],
+    "proStaffList": [{
+        "id": 1,
+        "staffImg": "../../static/images/yz.png",
+        "staffName": "设计师",
+        "btnText": "点击查看"
+      },
+      {
+        "id": 2,
+        "staffImg": "../../static/images/fss.png",
+        "staffName": "风水师",
+        "btnText": "点击查看"
+      },
+      {
+        "id": 3,
+        "staffImg": "../../static/images/jl.png",
+        "staffName": "监理",
+        "btnText": "点击查看"
+      },
+      {
+        "id": 4,
+        "staffImg": "../../static/images/gys.png",
+        "staffName": "供应商",
+        "btnText": "点击查看"
+      },
+      {
+        "id": 5,
+        "staffImg": "../../static/images/jl.png",
+        "staffName": "工人",
+        "btnText": "点击查看"
+      }
+    ]
+  }
+}

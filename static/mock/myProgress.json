@@ -1,0 +1,35 @@
+{
+    "ret": true,
+    "data": {
+        "progressInfoList": [{
+            "id": 1,
+            "personImg": "../../static/images/personImg.png",
+            "personName": "琴琴",
+            "theDay": "2020/4/7",
+            "content": "今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图"
+          }, {
+            "id": 2,
+            "personImg": "../../static/images/personImg.png",
+            "personName": "琴琴",
+            "theDay": "2020/4/7",
+            "content": "今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图"
+          }, {
+            "id": 3,
+            "personImg": "../../static/images/personImg.png",
+            "personName": "琴琴",
+            "theDay": "2020/4/7",
+            "content": "今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图今天已完成房屋的整体效果图"
+          }],
+        "proImgList": [{
+            "id": 1,
+            "imgUrl": "../../static/images/test1.jpg"
+          }, {
+            "id": 2,
+            "imgUrl": "../../static/images/test1.jpg"
+          }, {
+            "id": 3,
+            "imgUrl": "../../static/images/test1.jpg"
+          }]
+      }
+  }
+  
