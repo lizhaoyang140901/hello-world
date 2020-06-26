@@ -1,0 +1,235 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登陆"
+			}
+		},{
+			"path": "pages/index/index",
+			"style": {
+				"usingComponents": {
+					"van-popup": "/wxcomponents/vant/dist/popup/index"
+				},
+				"navigationBarTitleText": "ALLUP",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/transaction/transaction",
+			"style": {
+				"navigationBarTitleText": "杠杆",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/contract/contract",
+			"style": {
+				"navigationBarTitleText": "合约",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/assets/assets",
+			"style": {
+				"navigationBarTitleText": "资产",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"usingComponents": {
+				  "van-stepper": "/wxcomponents/vant/dist/stepper/index"
+				},
+				"navigationBarTitleText": "币币",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/hp-content/hp-content",
+			"style": {
+				"navigationBarTitleText": "帮助中心"
+			}
+		},{
+			"path": "pages/recharge/recharge",
+			"style": {
+				"navigationBarTitleText": "充币"
+			}
+		},{
+			"path": "pages/huazhang/huazhang",
+			"style": {
+				"navigationBarTitleText": "转账"
+			}
+		},{
+			"path": "pages/extract/extract",
+			"style": {
+				"usingComponents": {
+					"van-field": "/wxcomponents/vant/dist/field/index",
+					"van-button": "/wxcomponents/vant/dist/button/index"
+				},
+				"navigationBarTitleText": "提币"
+			}
+		},{
+			"path": "pages/invitation/invitation",
+			"style": {
+				"navigationBarTitleText": "邀请"
+			}
+		},{
+			"path": "pages/notice/notice",
+			"style": {
+				"navigationBarTitleText": "公告列表",
+				"backgroundColor":"#211613"
+			}
+		},{
+			"path": "pages/notice-xq/notice-xq",
+			"style": {
+				"navigationBarTitleText": "公告详情"
+			}
+		},{
+			"path": "pages/security/security",
+			"style": {
+				"navigationBarTitleText": "安全中心"
+			}
+		},{
+			"path": "pages/my_data/my_data",
+			"style": {
+				"navigationBarTitleText": "个人资料"
+			}
+		},{
+			"path": "pages/gymy/gymy",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		},{
+			"path": "pages/privacy/privacy",
+			"style": {
+				"navigationBarTitleText": "隐私政策"
+			}
+		},{
+			"path": "pages/agreement/agreement",
+			"style": {
+				"navigationBarTitleText": "用户协议"
+			}
+		},{
+			"path": "pages/loginps/loginps",
+			"style": {
+				"navigationBarTitleText": "修改登录密码"
+			}
+		},{
+			"path": "pages/jiaoyips/jiaoyips",
+			"style": {
+				"navigationBarTitleText": "设置交易密码"
+			}
+		},{
+			"path": "pages/register/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},{
+			"path": "pages/forget/forget",
+			"style": {
+				"navigationBarTitleText": "忘记密码"
+			}
+		},{
+			"path": "pages/bill-page/bill-page",
+			"style": {
+				"navigationBarTitleText": "账单"
+			}
+		},{
+			"path": "pages/trend/trend",
+			"style": {
+				"navigationBarTitleText": "走势图"
+			}
+		},{
+			"path": "pages/order-my/order-my",
+			"style": {
+				"navigationBarTitleText": "我的订单"
+			}
+		},{
+			"path": "pages/jy-record/jy-record",
+			"style": {
+				"navigationBarTitleText": "交易记录"
+			}
+		},{
+			"path": "pages/activity/activity",
+			"style": {
+				"navigationBarTitleText": "活动委托"
+			}
+		},{
+			"path": "pages/google/google",
+			"style": {
+				"navigationBarTitleText": "谷歌验证"
+			}
+		},{
+			"path": "pages/real-name/real-name",
+			"style": {
+				"navigationBarTitleText": "实名认证"
+			}
+		},{
+			"path": "pages/bz-details/bz-details",
+			"style": {
+				"navigationBarTitleText": "币种详情"
+			}
+		},{
+			"path": "pages/recharging/recharging",
+			"style": {
+				"navigationBarTitleText": "充提详情"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "交易所",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#cdcdcd",
+		"selectedColor": "#DE531E",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/icon/shou.png",
+				"selectedIconPath": "static/icon/shouye.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/transaction/transaction",
+				"iconPath": "static/icon/gang.png",
+				"selectedIconPath": "static/icon/ganggan.png",
+				"text": "杠杆"
+			},
+			{
+				"pagePath": "pages/contract/contract",
+				"iconPath": "static/icon/he.png",
+				"selectedIconPath": "static/icon/heyue.png",
+				"text": "合约"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"iconPath": "static/icon/bi.png",
+				"selectedIconPath": "static/icon/bibi.png",
+				"text": "币币"
+			},			{
+				"pagePath": "pages/assets/assets",
+				"iconPath": "static/icon/zi.png",
+				"selectedIconPath": "static/icon/zichan.png",
+				"text": "资产"
+			}
+		]
+	}
+}
